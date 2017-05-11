@@ -18,6 +18,14 @@ function actionAgainstOmoteUra2(){
 }
  
  function action(oppornent){
-     let result = actionAgainstOmoteUra2()
+     let result = GU;
+     matches + matches + 1
+     if(){
+         result = actionagainstXXX()    
+     }else if(){
+         result = actionAgainstOmoteUra()
+     }else if(){
+         result = acitonAgainstOmoteUra2()
+     }
      return result;
  }
